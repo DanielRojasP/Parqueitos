@@ -2,7 +2,8 @@
 class Automovil
 {
 public:
-
+private:
+	int placa;
 
 
 };
